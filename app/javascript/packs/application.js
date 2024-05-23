@@ -8,8 +8,6 @@ import Turbolinks from "turbolinks"
 import * as ActiveStorage from "@rails/activestorage"
 import "flowbite/dist/flowbite.turbo.js"
 import "channels"
-import 'flowbite-datepicker';
-import 'flowbite/dist/datepicker.turbo.js';
 Rails.start()
 Turbolinks.start()
 ActiveStorage.start()
